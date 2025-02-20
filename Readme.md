@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Denis Komarov](https://up.htmlacademy.ru/htmlcss-individual/2/user/2623815).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
